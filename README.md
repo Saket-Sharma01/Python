@@ -1,1 +1,1 @@
-# Python
+In the updated solution, the get_params() function retrieves the command-line arguments, and the main() function performs the data generation by calling the appropriate functions from the "data_generator" code. The parameters for input/output file locations are fetched from the command-line arguments and passed to the data generation functions.
